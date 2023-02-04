@@ -17,7 +17,7 @@ It gives you the weather details of present day along with future forecast of se
 # Screenshots 🖼️
 
 * Search by geolocation
-![image](https://user-images.githubusercontent.com/99972374/173511842-54b439e9-2249-46f8-ab6e-4752ff535407.png)
+![image](https://user-images.githubusercontent.com/95741246/216769043-d1be7bf4-f3d0-4430-b287-686fa87d59ef.png)
 
 * Search by input.
-![image](https://user-images.githubusercontent.com/99972374/173511874-ff256ea1-2737-4b52-a0d2-42037d0447ad.png)
+![image](https://user-images.githubusercontent.com/95741246/216768880-df53353c-d9ae-4ea9-a9ea-1efbedec49de.png)
