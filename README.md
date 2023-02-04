@@ -1,6 +1,6 @@
 # #Weather☁️
 It gives you the weather details of present day along with future forecast of seven days of searched city.
-<h3>check [Live](https://thriving-s<h3/>
+<h3>check [Live](https://gola-k.github.io/WD-MAJOR-DECEMBER-WB-12-MLB5/>
 
 # #This site is made using HTML , CSS , Javascript , DOM & API 😇
 
